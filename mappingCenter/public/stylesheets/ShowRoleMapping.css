@@ -1,0 +1,39 @@
+
+.dragActive { border:2px dotted orange; }
+.dropHover { border:1px dotted red; }
+
+.busiRoleItem {
+    top: 100px;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 700px;
+}
+.organPosItem {
+    top: 100px;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 300px;
+
+}
+.con-head {
+    height: 70px;
+    width: auto;
+    margin-left: 220px;
+    position: absolute;
+
+}
+.con-left {
+    position:absolute;
+}
+.con-right {
+
+    left:auto;
+    position:absolute;
+}
+.content_container {
+    padding: 0px 10px 0px 0px!important;
+}
+.font {
+    font-family: 'Microsoft Yahei', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+}
